@@ -10,7 +10,7 @@ package sandwichshop;
  * @author james
  */
 public class SandwichShop {
-
+    int hello;
     /**
      * @param args the command line arguments
      */
